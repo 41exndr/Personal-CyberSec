@@ -94,7 +94,9 @@ I searched for that adress at https://www.blockchain.com/explorer
 
 a wallet bc1qy-l67qa has been found. After searching each transaction number in google, there's one with importance because of a Office of Foreign Assets Control sanction: **bc1q5jqgm7nvrhaw2rh2vk0dk8e4gg5g373g0vz07r** owned by *"KONDRATIEV, Ivan Gennadievich"*. Searching that name in google there's a referenced group called "LockBit" **(Question 6 Done)**
 
-And that's it.
+And that's it. It was fun.
+
+Next one.
 
 #### Questions
 
