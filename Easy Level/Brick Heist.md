@@ -1,4 +1,4 @@
-### Brick Heist
+## Bricks Heist
 ---
 
 **Given Basic Info:**
@@ -7,7 +7,7 @@ Machine ID: **10.10.3.78 bricks.thm**
 *Added to /etc/hosts*
 
 ---
-#### Process
+### Process
 
 I started with nmap just so I can see which services and/or ports are available
 
